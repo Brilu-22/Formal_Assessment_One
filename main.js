@@ -48,6 +48,7 @@ const plants = [
   
       // When the document loads, animate the hero image upwards
       $(".hero-image").animate({top: '-=100px'});
+      $("side-kick").animate({top: '-=100px'});
   
       // -----------------------------------------
       // Browse Page

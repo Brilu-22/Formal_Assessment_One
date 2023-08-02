@@ -105,3 +105,17 @@ button {
     position: relative;
     bottom: -100px;
 }
+
+.side-kick{
+    height: 90vh; 
+    position: relative;
+    bottom: -100px;
+}
+
+.shape{
+    height: 550px;
+    width: 550px;
+    border-radius: 50%;
+    background-color: #18382B;
+    margin-top: -350px;
+}
